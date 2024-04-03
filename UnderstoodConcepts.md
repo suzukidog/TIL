@@ -49,3 +49,20 @@
 > これもconstとdefineの違いみたいな問題。今の認識で間違っていないみたい。
 > <br>ちなみに実務では大体for文を使うらしい。
 ***
+
+<ul>
+  <li>
+    <b>foreach</b>
+<br>あまりはっきりと理解できていない。なにを理解していないのか言語化が難しいが…。
+<pre><code>$item = array("薬草", "上薬草", "特薬草);
+foreach ($item as $value) {
+    echo $value . "\n";
+}</code></pre>
+    このようなコードの時、key($item)のvalue($value)に新たに繰り返し代入する操作だが、foreachの外で既に代入されているのにまた代入する意味は？
+    <br>わからないことがわかっていない状態かもしれない。
+  </li>
+</ul>
+
+> どういう動きなのか大体理解できた。
+> <br>詳しく書くと長くなるので、詳細は[04/03のページ](https://github.com/suzukidog/TIL/blob/main/2024/04/03.md)へ。
+***
