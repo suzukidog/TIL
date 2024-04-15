@@ -65,6 +65,21 @@ $enemy = array(
 <br>どちらもできてしまった。好みの問題？
 ***
 
+- **EloquentでSQLデータ管理**
+<ul>
+  <pre><code>$player = new Player;
+$player->name = '霧島1号';
+$player->level = 1;
+$player->job_id = 1;
+$player->save();</pre></code>
+このようにコード上でデータを追加した場合、更新するごとにデータが追加されていってしまう。
+<br>大丈夫なんだろうか？なにか制御できるコードを今後学ぶのかな？
+<br>（↓一回追加した後ブラウザを3回更新した状態）
+<br><img width="50%" alt="SCR-20240415-lrsv" src="https://github.com/suzukidog/TIL/assets/54813237/9f759f93-b25e-4abc-b4d5-8605d9c7d207">
+</ul>
+    
+***
+
 
 
 <!-- 今の所ナイヨ！ -->
