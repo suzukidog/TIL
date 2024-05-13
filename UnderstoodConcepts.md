@@ -213,3 +213,26 @@ $player->save();</pre></code>
 <br>そこはわかったが、セキュリティ面で強いセッションじゃなくわざわざクッキーを使うメリットってなに？
 > セッションの場合、サーバーの負担になる（どんな負担か具体的には理解しきれていない）ことがあるので、カートに入れた商品の情報をクッキーで管理するなど一時的なデータの保存にはクッキーが適している。
 ***
+
+- **難しすぎて理解できないpart1**
+<ul>
+  
+```
+if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" => $incomingFields["loginpassword"]])) {
+    $request->session()->regenerate();
+    return "Congrats!";
+} else {
+    return "Sorry...";
+}
+```
+
+なんだよこれ、if文に詰め込みすぎだろ。意味わからん
+<br>ログインするときにusernameとpasswordが合っていればCongratsもしくはSorryを返すよ。
+<br>っていうコードなんだと思うけど、詰め込みすぎてよくわからなくなってる。
+</ul>
+
+> `auth()`で認証する。正しければtrueを返す。
+> <br>`attempt()`で中身を実行する。今回の場合は`auth()`に使うためのusernameとpasswordを取り出している。
+> <br>`$request->session()->regenerate()`セッションの再生成。セキュリティ向上のために一度セッションを破棄して、もう一度作り直している。
+> <br>原理はわかったがこれを一から書く自信はないな…。
+***
