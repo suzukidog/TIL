@@ -253,3 +253,9 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 
 > 簡単に言えばバージョンの違いで噛み合わなかった。
 > <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/a28e219f3be2a0d61b8d#%E8%A7%A3%E6%B1%BA20240610)
+
+---
+- **ユーザー認証？がうまくいかない**
+<br>[詳細](https://qiita.com/suzukidog/items/c4bd6b785b09a18fef1b)
+> キャッシュクリアと再起動で解決した。
+> <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/c4bd6b785b09a18fef1b#%E8%A7%A3%E6%B1%BA20240618)
