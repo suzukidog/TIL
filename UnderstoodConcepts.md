@@ -259,3 +259,10 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 <br>[詳細](https://qiita.com/suzukidog/items/c4bd6b785b09a18fef1b)
 > キャッシュクリアと再起動で解決した。
 > <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/c4bd6b785b09a18fef1b#%E8%A7%A3%E6%B1%BA20240618)
+
+***
+- **php.iniを開いても空白**
+<br>教材に習って`cursor /opt/homebrew/etc/php/8.3.7/php.ini`で開くと何も書かれていない空白の`php.ini`が開かれる
+> ただ単にパスが間違えていただけだったようだ。
+> <br>空白なのは新たにファイルを作ろうとしていたため。
+> <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/ed710873b41ac456096a)
