@@ -266,3 +266,10 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 > ただ単にパスが間違えていただけだったようだ。
 > <br>空白なのは新たにファイルを作ろうとしていたため。
 > <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/ed710873b41ac456096a)
+
+***
+- **フラッシュメッセージの設定**\
+フォロー成功メッセージは表示されるが失敗メッセージが表示されない。\
+[詳細](https://qiita.com/suzukidog/items/02f22db1eed87c34fcc7)
+> セッションメッセージ設定とキーが合っていなかった。
+> <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/02f22db1eed87c34fcc7#%E8%A7%A3%E6%B1%BA20240629)
