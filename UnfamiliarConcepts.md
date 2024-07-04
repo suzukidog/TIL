@@ -17,9 +17,10 @@
 <br>俺はrootだ！！
 
 ***
-- **個々のページでスタイルが適用されない**
-<br>[詳細](https://qiita.com/suzukidog/items/34b6c0665a0fdf95378a)
+- **syntax error, unexpected token "endif", expecting end of file**
+<br>[詳細](https://qiita.com/suzukidog/items/af09c201fac3cccc4687#%E5%95%8F%E9%A1%8C)
 
+***
 
 <!-- 今の所ナイヨ！ -->
 <!--
