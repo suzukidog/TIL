@@ -281,3 +281,12 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 > <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/34b6c0665a0fdf95378a#%E8%A7%A3%E6%B1%BA%E6%B8%88%E3%81%BF20240703)
 
 ***
+- **syntax error, unexpected token "endif", expecting end of file**
+<br>[詳細](https://qiita.com/suzukidog/items/af09c201fac3cccc4687#%E5%95%8F%E9%A1%8C)
+> シングルクォーテーションとダブルクォーテーションのミスだった。
+> <br>`<x-profile :sharedData="$sharedData" doctitle="{{$sharedData['username']}}'s Profile">`
+> <br>元は`"username"`(ダブル)としていたが、教材と見比べて`'username'`(シングル)にしたらエラー解消された。
+> <br>なおそこ以外のクォーテーションは構っていない。
+> <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/af09c201fac3cccc4687#%E8%A7%A3%E6%B1%BA20240705)
+
+***
