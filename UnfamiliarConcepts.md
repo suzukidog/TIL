@@ -17,6 +17,9 @@
 <br>俺はrootだ！！
 
 ***
+- **Laravel11におけるイベントの手作業登録とは…？**
+<br>[詳細](https://qiita.com/suzukidog/items/510ac8193b67aec71467#%E7%96%91%E5%95%8Fevent-listener)
+
 
 <!-- 今の所ナイヨ！ -->
 <!--
