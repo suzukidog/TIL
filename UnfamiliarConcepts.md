@@ -20,10 +20,6 @@
 - **Laravel11におけるイベントの手作業登録とは…？**
 <br>[詳細](https://qiita.com/suzukidog/items/510ac8193b67aec71467#%E7%96%91%E5%95%8Fevent-listener)
 
-***
-- **broadcastingでチャットが相手に届かない**
-<br>[詳細](https://qiita.com/suzukidog/items/b53c1c27d79a28cece8a)
-
 
 <!-- 今の所ナイヨ！ -->
 <!--
