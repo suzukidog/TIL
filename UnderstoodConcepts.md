@@ -290,3 +290,6 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 > <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/af09c201fac3cccc4687#%E8%A7%A3%E6%B1%BA20240705)
 
 ***
+- **broadcastingでチャットが相手に届かない**
+<br>[詳細](https://qiita.com/suzukidog/items/b53c1c27d79a28cece8a)
+> [Qiitaの解決ページへ](https://qiita.com/suzukidog/items/b53c1c27d79a28cece8a#%E8%A7%A3%E6%B1%BA20240710)
