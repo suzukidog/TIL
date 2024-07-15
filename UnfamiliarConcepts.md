@@ -25,6 +25,10 @@
 <br>JavaScriptのファイルを本番用にまとめたり、不要なコードを削除したりする。と聞いたが、いまいち掴めない。
 <br>試しにJSファイルに適当なコメントを書いてbuildしてみたが削除されなかった。
 
+***
+- **insomniaでAPIエンドポイントがうまくいかない！(Laravel Sanctum)**
+<br>[詳細](https://qiita.com/suzukidog/items/eb1c51a2ed979ce5b5fe)
+
 
 
 <!-- 今の所ナイヨ！ -->
