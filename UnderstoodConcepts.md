@@ -293,3 +293,11 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 - **broadcastingでチャットが相手に届かない**
 <br>[詳細](https://qiita.com/suzukidog/items/b53c1c27d79a28cece8a)
 > [Qiitaの解決ページへ](https://qiita.com/suzukidog/items/b53c1c27d79a28cece8a#%E8%A7%A3%E6%B1%BA20240710)
+
+***
+- **insomniaでAPIエンドポイントがうまくいかない！(Laravel Sanctum)**
+<br>[詳細](https://qiita.com/suzukidog/items/eb1c51a2ed979ce5b5fe)
+> `api.php`が読み込まれていなかった。
+> [Qiitaの解決ページへ](https://qiita.com/suzukidog/items/eb1c51a2ed979ce5b5fe#%E8%A7%A3%E6%B1%BA20240716)
+
+***
