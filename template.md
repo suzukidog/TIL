@@ -28,12 +28,12 @@
 -->
 
 
-
+<!--
 ## 本日の教材
-🟣Udemy [Brad Schiff - Let's Learn Laravel: A Guided Path For Beginners](https://www.udemy.com/course/lets-learn-laravel-a-guided-path-for-beginners/?couponCode=ST20MT50724)
+🟣Udemy []()
 
 <br>
-
+-->
 **[&raquo; 今日のQiitaへ](https://qiita.com/suzukidog)**
 ---
 
