@@ -26,10 +26,8 @@
 <br>試しにJSファイルに適当なコメントを書いてbuildしてみたが削除されなかった。
 
 ***
-- **AWS EC2でデプロイしたWEBサイトがタイムアウトする！**
-<br>[詳細](https://qiita.com/suzukidog/items/3d20cbf38a1afb4f7c8e)
-
-
+- **AWSで`503 Service Temporarily Unavailable`**
+<br>[詳細](https://qiita.com/suzukidog/items/1430eca34898146359e1)
 
 
 <!-- 今の所ナイヨ！ -->
