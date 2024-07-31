@@ -301,3 +301,6 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 > [Qiitaの解決ページへ](https://qiita.com/suzukidog/items/eb1c51a2ed979ce5b5fe#%E8%A7%A3%E6%B1%BA20240716)
 
 ***
+- **AWS EC2でデプロイしたWEBサイトがタイムアウトする！**
+<br>[詳細](https://qiita.com/suzukidog/items/3d20cbf38a1afb4f7c8e)
+> [Qiitaの解決ページへ](https://qiita.com/suzukidog/items/3d20cbf38a1afb4f7c8e#%E8%A7%A3%E6%B1%BA20240723)
