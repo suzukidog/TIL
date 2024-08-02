@@ -25,10 +25,6 @@
 <br>JavaScriptのファイルを本番用にまとめたり、不要なコードを削除したりする。と聞いたが、いまいち掴めない。
 <br>試しにJSファイルに適当なコメントを書いてbuildしてみたが削除されなかった。
 
-***
-- **AWSで`503 Service Temporarily Unavailable`**
-<br>[詳細](https://qiita.com/suzukidog/items/1430eca34898146359e1)
-
 
 <!-- 今の所ナイヨ！ -->
 <!--
