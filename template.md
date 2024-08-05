@@ -28,12 +28,11 @@
 -->
 
 
-<!--
 ## 本日の教材
-🟣Udemy []()
+🟣Udemy [中村 祐太 - はじめてのJavaScriptプログラミング入門](https://www.udemy.com/course/learn-basics-of-javascript/)
 
 <br>
--->
+
 **[&raquo; 今日のQiitaへ](https://qiita.com/suzukidog)**
 ---
 
