@@ -29,7 +29,7 @@
 
 
 ## 本日の教材
-🟣Udemy [中村 祐太 - はじめてのJavaScriptプログラミング入門](https://www.udemy.com/course/learn-basics-of-javascript/)
+🟣Udemy [Brad Schiff - Let's Learn Laravel: A Guided Path For Beginners](https://www.udemy.com/course/lets-learn-laravel-a-guided-path-for-beginners/?couponCode=KEEPLEARNING)
 
 <br>
 
