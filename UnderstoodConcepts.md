@@ -298,15 +298,23 @@ if (auth()->attempt(["username" => $incomingFields["loginusername"], "password" 
 - **insomniaでAPIエンドポイントがうまくいかない！(Laravel Sanctum)**
 <br>[詳細](https://qiita.com/suzukidog/items/eb1c51a2ed979ce5b5fe)
 > `api.php`が読み込まれていなかった。
-> [Qiitaの解決ページへ](https://qiita.com/suzukidog/items/eb1c51a2ed979ce5b5fe#%E8%A7%A3%E6%B1%BA20240716)
+> <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/eb1c51a2ed979ce5b5fe#%E8%A7%A3%E6%B1%BA20240716)
 
 ***
 - **AWS EC2でデプロイしたWEBサイトがタイムアウトする！**
 <br>[詳細](https://qiita.com/suzukidog/items/3d20cbf38a1afb4f7c8e)
-> [Qiitaの解決ページへ](https://qiita.com/suzukidog/items/3d20cbf38a1afb4f7c8e#%E8%A7%A3%E6%B1%BA20240723)
+> <br>[Qiitaの解決ページへ](https://qiita.com/suzukidog/items/3d20cbf38a1afb4f7c8e#%E8%A7%A3%E6%B1%BA20240723)
 
 ***
 - **AWSで`503 Service Temporarily Unavailable`**
 <br>[詳細](https://qiita.com/suzukidog/items/1430eca34898146359e1)
 > ロードバランサーのリスナーとルールの変更、ポートの変更で解決した
-> [Qiita解決ページへ](https://qiita.com/suzukidog/items/1430eca34898146359e1#%E8%A7%A3%E6%B1%BA20240802)
+> <br>[Qiita解決ページへ](https://qiita.com/suzukidog/items/1430eca34898146359e1#%E8%A7%A3%E6%B1%BA20240802)
+
+***
+- **SQLSTATE[HY000]: General error: 1364 Field '---' doesn't have a default value**
+<br>[詳細](https://qiita.com/suzukidog/items/9c5100440f7726e987f5#%E4%BD%95%E3%81%8C%E8%B5%B7%E3%81%8D%E3%81%9F)
+> `.env.local`の`DB_DATABASE`項目が間違えていただけだった。
+> <br>[Qiita解決ページへ](https://qiita.com/suzukidog/items/9c5100440f7726e987f5#%E8%A7%A3%E6%B1%BA20240823)
+
+***
