@@ -26,9 +26,6 @@
 <br>試しにJSファイルに適当なコメントを書いてbuildしてみたが削除されなかった。
 
 ***
-- **SQLSTATE[HY000]: General error: 1364 Field '---' doesn't have a default value**
-<br>[詳細](https://qiita.com/suzukidog/items/9c5100440f7726e987f5#%E4%BD%95%E3%81%8C%E8%B5%B7%E3%81%8D%E3%81%9F)
-
 
 <!-- 今の所ナイヨ！ -->
 <!--
