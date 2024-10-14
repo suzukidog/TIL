@@ -27,14 +27,17 @@
   - チャプター
 -->
 
-
+<!--
 ## 本日の教材
 🟣Udemy [Brad Schiff - Let's Learn Laravel: A Guided Path For Beginners](https://www.udemy.com/course/lets-learn-laravel-a-guided-path-for-beginners/?couponCode=KEEPLEARNING)
-
+-->
 <br>
 
-**[&raquo; 今日のQiitaへ](https://qiita.com/suzukidog)**
----
+**[&raquo; 今日のQiitaへ](https://qiita.com/suzukidog/items/)**
+<br>
+**[&raquo; 今日のブログへ](https://dogtype.net/post/)**
+<br>
+**[&raquo; 今日の更新情報へ](https://dogtype.net/changelog/)**
 
 <!--
 > [!NOTE]
